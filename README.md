@@ -32,10 +32,10 @@ prints the user with the largest number of files in this directory.
 Example:
 
 $ thewinneris << STOP  
-> /etc  
-> /tmp  
-> /home/users/muhammet  
-> STOP  
+-> /etc  
+-> /tmp  
+-> /home/users/muhammet  
+-> STOP  
 root  
 killertrashman  
 muhammet  
